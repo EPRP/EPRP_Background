@@ -1,2 +1,2 @@
 Save the following image:
-![background](background.png)
+![background](lockscreen.jpg)
